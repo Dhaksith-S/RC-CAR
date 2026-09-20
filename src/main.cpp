@@ -22,5 +22,5 @@ void setup() {
 
 void loop() {
   httpServerHandle();
-  failsafeCheck();333 ṁ
+  failsafeCheck();
 }
